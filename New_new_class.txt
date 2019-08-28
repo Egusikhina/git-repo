@@ -1,0 +1,1 @@
+print('Create a new-new class for our work')
